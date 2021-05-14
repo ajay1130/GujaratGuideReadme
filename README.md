@@ -17,9 +17,9 @@
 Gujarat Guide app is created in android where user can get details of gujarat like history of gujarat, art & culture, hospitals list, cineams, fairs & festivals, universities, best places to visit etc.
 
 
-# Backend Conncetivity for this app
+# Backend connectivity for this app
 
-Here we have used mongodb for backend connectivity for this app.
+Here we have used lots of collection in mongodb for backend connectivity for this app.
 
 
 
