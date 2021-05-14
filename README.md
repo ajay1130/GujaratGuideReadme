@@ -25,19 +25,20 @@ Gujarat Guide app is created in android where user can get details of gujarat li
 
 Here we have used mongodb for backend connectivity for this app.
 
-
+# Gujarat Guide App link
+[App](https://play.google.com/store/apps/details?id=com.gujaratguide&hl=en&gl=US)
 
 # Screen Shorts
 
 
 ## Home Page
 <p float="left">
-  <img src="https://raw.githubusercontent.com/ajay1130/GujaratGuideReadme/Screenshots/1616255071387.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/ajay1130/GujaratGuideReadme/main/Screenshots/1616255071387.jpg" width="200" />
 </p>
 
 ## Categories for selected location 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/ajay1130/GujaratGuideReadme/Screenshots/1616255071355.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/ajay1130/GujaratGuideReadme/main/Screenshots/1616255071355.jpg" width="200" />
 </p>
 
 ## Categories for selected location 
