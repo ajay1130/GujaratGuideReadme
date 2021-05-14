@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://example.com/">
-    <img src="https://avatars2.githubusercontent.com/u/40952264?s=400&u=626a34d95390429dcf1a20e215e6701cf40e42a5&v=4" alt="Logo" width=100 height=100 style="border-radius:50%;">
+    <img src="https://avatars.githubusercontent.com/u/43825633?v=4" alt="Logo" width=100 height=100 style="border-radius:50%;">
   </a>
 
   <h3 align="center">Ajay Kori</h3>
@@ -32,8 +32,7 @@ Here we have used mongodb for backend connectivity for this app.
 
 ## Login
 <p float="left">
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/login.png" width="200" />
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/login-dark.png" width="200" />
+  <img src="https://github.com/ajay1130/GujaratGuideReadme/blob/main/Screenshots/1616255071387.jpg" width="200" />
 </p>
 
 ## Sign Up
