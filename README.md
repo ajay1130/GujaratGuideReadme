@@ -1,20 +1,16 @@
 <p align="center">
-  <a href="https://example.com/">
-    <img src="https://avatars.githubusercontent.com/u/43825633?v=4" alt="Logo" width=100 height=100 style=" border-radius: 50%;">
-  </a>
 
-  <h3 align="center">Ajay Kori</h3>
+
+  <h3 align="center">Developed By <a href="https://github.com/ajay1130"> Ajay Kori</a></h3>
 
   <p align="center">
     Android Developer 
-    <!-- <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a> -->
   </p>
 </p>
 </br>
-</br>
+
+# Download App
+[Click here to get app](https://play.google.com/store/apps/details?id=com.gujaratguide&hl=en&gl=US)
 
 # Gujarat Guide
 
@@ -25,8 +21,7 @@ Gujarat Guide app is created in android where user can get details of gujarat li
 
 Here we have used mongodb for backend connectivity for this app.
 
-# Gujarat Guide App link
-[App](https://play.google.com/store/apps/details?id=com.gujaratguide&hl=en&gl=US)
+
 
 # Screen Shorts
 
@@ -36,19 +31,48 @@ Here we have used mongodb for backend connectivity for this app.
   <img src="https://raw.githubusercontent.com/ajay1130/GujaratGuideReadme/main/Screenshots/1616255071387.jpg" width="200" />
 </p>
 
-## Categories for selected location 
+## District wise data
+<p float="left">
+  <img src="https://raw.githubusercontent.com/ajay1130/GujaratGuideReadme/main/Screenshots/1616255071381.jpg" width="200" />
+</p>
+
+## Categories wise data for selected location 
 <p float="left">
   <img src="https://raw.githubusercontent.com/ajay1130/GujaratGuideReadme/main/Screenshots/1616255071355.jpg" width="200" />
 </p>
 
-## Categories for selected location 
+## Selected city map and other details like nearby hotels, hospitals etc
 <p float="left">
-  <img src="https://raw.githubusercontent.com/ajay1130/GujaratGuideReadme/Screenshots/1616255071355.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/ajay1130/GujaratGuideReadme/main/Screenshots/1616255071345.jpg" width="200" />
 </p>
+
+## Geographical indication of gujarat
+<p float="left">
+  <img src="https://raw.githubusercontent.com/ajay1130/GujaratGuideReadme/main/Screenshots/1616255071368.jpg" width="200" />
+</p>
+
+## Heritage site of gujarat
+<p float="left">
+  <img src="https://raw.githubusercontent.com/ajay1130/GujaratGuideReadme/main/Screenshots/1616255071374.jpg" width="200" />
+</p>
+
+## Wildlife sanctuary of gujarat
+<p float="left">
+  <img src="https://raw.githubusercontent.com/ajay1130/GujaratGuideReadme/main/Screenshots/1616255071364.jpg" width="200" />
+</p>
+
+## Contact Us
+<p float="left">
+  <img src="https://raw.githubusercontent.com/ajay1130/GujaratGuideReadme/main/Screenshots/1616255071358.jpg" width="200" />
+</p>
+
 
 # Contact 
 📧 ajaykori2130@gmail.com
 
+
+## Download App
+[Click here to get app](https://play.google.com/store/apps/details?id=com.gujaratguide&hl=en&gl=US)
 
 ## License
 [MIT](https://github.com/ajay1130/GujaratGuideReadme/blob/main/LICENSE)
