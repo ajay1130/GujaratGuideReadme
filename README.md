@@ -1,11 +1,7 @@
 <p align="center">
 
 
-  <h3 align="center">Developed By <a href="https://github.com/ajay1130"> Ajay Kori</a></h3>
-
-  <p align="center">
-    Android Developer 
-  </p>
+  <h3 align="center">Developed in Android By <a href="https://github.com/ajay1130"> Ajay Kori</a> </h3>
 </p>
 </br>
 
